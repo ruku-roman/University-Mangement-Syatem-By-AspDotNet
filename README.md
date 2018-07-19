@@ -1,1 +1,1 @@
-# University-Mangement-Syatem-By-AspDotNet
+# University Mangement Syatem Application By AspDotNet
